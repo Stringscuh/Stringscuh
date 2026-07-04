@@ -78,10 +78,6 @@ Interests: vSLAM
 
 <table>
 <td>
-<p align="center"> <img src="/github-metrics.svg" alt="Anilist" width="600%"></p>
-<br /> <br />
-</td> 
-<td>
 <p align="center"> <img src="gifs/2.gif" alt="<3" align="center" width="50%">
 	<br /> <br />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stringscuh&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" /></p>
