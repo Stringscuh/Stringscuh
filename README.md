@@ -71,14 +71,6 @@ Interests: vSLAM
  </tr>
 </table>
 
-<table>
-<td>
-<p align="center"> <img src="gifs/2.gif" alt="<3" align="center" width="50%">
-	<br /> <br />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stringscuh&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" /></p>
-</table>
-</td>
-
 
 ## <div align="center" color="White"> **Visit Counter** <img src="gifs/5.png" alt="astolfo" height="55" width="55"></div>
 
