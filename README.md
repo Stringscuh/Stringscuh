@@ -10,7 +10,7 @@ Strings@arch: ~/my_readme $ neofetch
 <!--
 <img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" align="left" width="25%" height="20%">
 -->
-<img src="gifs/1.gif" alt="<3" align="left" width="30%" height="500%">
+<img src="gifs/1.png" alt="<3" align="left" width="30%" height="500%">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
