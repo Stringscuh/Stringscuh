@@ -36,7 +36,7 @@ Interests: vSLAM
 	
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hilda.car&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=3aa596&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 	
-[![GitHub Streak](https://streak-stats.demolab.com?user=NeiKa0s496&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stringscuh&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
 <!--
 <img src="https://media.tenor.com/TI8pK4xA-FIAAAAj/xiao.gif" alt="<3" width="80%">
 -->
