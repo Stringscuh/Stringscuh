@@ -1,11 +1,11 @@
 <!--
-  <h1 align="center">♥ Hi, I'm Ephi! ♥ </h1>
+  <h1 align="center">♥ Hi, I'm Strings! ♥ </h1>
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=27&pause=1000&color=32C6BD&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Welcome!+I'm+Ephi++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9;%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Bienvenid%40!+Soy+Ephi++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=27&pause=1000&color=32C6BD&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Welcome!+I'm+Strings++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9;%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Bienvenid%40!+Soy+Strings++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://git.io/typing-svg)
 
 ```zsh
-Ephi@linux: ~/my_readme $ neofetch
+Strings@arch: ~/my_readme $ neofetch
 ```
 <!--
 <img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" align="left" width="25%" height="20%">
@@ -15,15 +15,13 @@ Ephi@linux: ~/my_readme $ neofetch
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
 
-Username: Ephi 👩🏻‍💻
-WhoamI: 4rd semester Computer science student @Facultad de
-Ciencias, UNAM ˚ʚ♡ɞ˚ (taking one class from 5th xd)
-I'm also a freelance artist
-OS: pop!OS, EndeavourOS(i3WM-QEMU) and Arch btw(xmonad)
-Hobbies: drawing, gaming, anime/manga, I have an anime/manga/figure
+Username: Strings 👩🏻‍💻
+WhoamI: Highschool computer vision engineer
+OS: EndeavourOS(i3WM-QEMU) and Arch btw(xmonad)
+Hobbies: gaming, anime/manga, I have an anime/manga/figure
 collection, I enjoy upgrading my setup and ricing my laptop.      
-Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
-Interests: AI, Linux, Machine Learning, bash scripts
+Games: Elden Ring, BloodBorne, Honkai Star Rail, BO3
+Interests: vSLAM
 
 ╰────────🖥️ hope you find something useful 🖥️───────────╯
 
@@ -87,7 +85,7 @@ Interests: AI, Linux, Machine Learning, bash scripts
 <p align="center"> <img src="gifs/2.gif" alt="<3" align="center" width="50%">
 	<br /> <br />
 <a href="https://github.com/NeiKa0s496/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiKa0s496&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" /></p>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stringscuh&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" /></p>
 </table>
 </td>
 
