@@ -46,7 +46,7 @@ Interests: vSLAM
 </td> 
 <td>
 
-## <div align="center" color="White">Daily inspo <img src="https://upload-os-bbs.hoyolab.com/upload/2022/03/29/62633586/6565a5be2ef27e68de6db3ddbb4d60ad_8509726593176836485.gif" alt="xiao" height="70" width="90"></div>
+## <div align="center" color="White">Daily inspo <img src="gifs/3.png" alt="xiao" height="70" width="90"></div>
 
 
 
