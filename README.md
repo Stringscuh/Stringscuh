@@ -46,13 +46,13 @@ Interests: vSLAM
 </td> 
 <td>
 
-## <div align="center" color="White">Daily inspo <img src="gifs/3.png" alt="xiao" height="70" width="90"></div>
+## <div align="center" color="White">Daily inspo <img src="gifs/3.png" alt="astolfo" height="70" width="90"></div>
 
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 	
-## <div align="center" color="White">Languages and tools <img src="gifs/4.png" alt="xiao" height="85" width="55"></div>
+## <div align="center" color="White">Languages and tools <img src="gifs/4.png" alt="astolfo" height="85" width="55"></div>
 
 
 <p align="center"> 
@@ -90,7 +90,7 @@ Interests: vSLAM
 </td>
 
 
-## <div align="center" color="White"> **Visit Counter** <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="xiao" height="55" width="55"></div>
+## <div align="center" color="White"> **Visit Counter** <img src="gifs/5.png" alt="astolfo" height="55" width="55"></div>
 
 <p align="center"> <a href="https://gitlab.com/NeiKos496"><img align="center" width=400 src=https://count.getloli.com/@NeiKa0s496?name=NeiKa0s496&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
 	
