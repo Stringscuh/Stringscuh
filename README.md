@@ -58,8 +58,6 @@ Interests: vSLAM
 
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > </a>
-  <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.latex-project.org/" > <img src="https://img.icons8.com/fluency/48/undefined/texshop.png" alt="latex" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org/" > <img src="https://img.icons8.com/color/48/undefined/postgreesql.png" alt="postgreesql" width="40" height="40"/> </a>
