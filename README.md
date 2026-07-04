@@ -68,11 +68,6 @@ Interests: vSLAM
 </a>
 </td>
 <br/>
-<!--<a
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Zerabalus&label=Views&color=9&icon=2&pretty=true" />
-</a>
-</a>-->  
  </tr>
 </table>
 
