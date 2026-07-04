@@ -52,7 +52,7 @@ Interests: vSLAM
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 	
-## <div align="center" color="White">Languages and tools <img src="https://64.media.tumblr.com/e7341da0b29fcf3907f544850269de7b/81558f769c234602-e1/s1280x1920/89b330b63f112310af202d319c3f14794621a1f4.gifv" alt="xiao" height="85" width="55"></div>
+## <div align="center" color="White">Languages and tools <img src="gifs/4.png" alt="xiao" height="85" width="55"></div>
 
 
 <p align="center"> 
